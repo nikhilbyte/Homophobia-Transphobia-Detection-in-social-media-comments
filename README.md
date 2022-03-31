@@ -3,3 +3,7 @@
 
 Codalab: https://competitions.codalab.org/competitions/36394#learn_the_details-results
 
+Resources:
+For Tamil: https://huggingface.co/monsoon-nlp/tamillion
+For English: https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment
+
